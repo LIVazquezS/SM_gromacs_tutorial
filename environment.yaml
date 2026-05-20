@@ -16,4 +16,5 @@ dependencies:
   - compilers
   - openmpi
   - cmake
-  - plotxvg
+  - pip:
+    - plotxvg
